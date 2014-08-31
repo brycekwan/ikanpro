@@ -731,7 +731,7 @@ footer h3 > span {
 	background-size: cover;
 }
 .jumbotron.third {
-	background: url(../img/slide-3.jpg) no-repeat center center;
+	background: url(../img/fader-slide.jpg) no-repeat center center;
 	background-size: cover;
 }
 .jumbotron {
@@ -1265,8 +1265,8 @@ a.port-arrow-next {
 	width: 100%;
 	border-top-width: 30px;
 	border-top-style: solid;
-	border-right: 99px solid white;
-	border-left: 99px solid white;
+	border-right: 140px solid white;
+	border-left: 140px solid white;
 }
 .pricing-p .sceleton h5 {
 	font-size: 30px;
