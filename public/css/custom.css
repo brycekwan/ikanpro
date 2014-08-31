@@ -727,11 +727,11 @@ footer h3 > span {
 	background-size: cover;
 }
 .jumbotron.second {
-	background: url(../img/keyboard_2.jpg) no-repeat center bottom;
+	background: url(../img/screenshot.png) no-repeat center bottom;
 	background-size: cover;
 }
 .jumbotron.third {
-	background: url(../img/fader-slide.jpg) no-repeat center center;
+	background: url(../img/consolefaders.jpg) no-repeat center center;
 	background-size: cover;
 }
 .jumbotron {
