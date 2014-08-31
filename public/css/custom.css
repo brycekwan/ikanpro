@@ -202,7 +202,7 @@ h6,
 }
 
 .navbar-dark .navbar-brand {
-	color: #E35E54;
+	color: #ED1C24;
 	text-shadow: 1px 1px 2px #333;
 }
 
@@ -723,11 +723,11 @@ footer h3 > span {
 	margin-top: -20px;
 }
 .jumbotron.first {
-	background: url(../img/turntable-slide.jpg) no-repeat center center;
+	background: url(../img/true.jpg) no-repeat center center;
 	background-size: cover;
 }
 .jumbotron.second {
-	background: url(../img/screenshot.png) no-repeat center bottom;
+	background: url(../img/screenshot_2.png) no-repeat center bottom;
 	background-size: cover;
 }
 .jumbotron.third {

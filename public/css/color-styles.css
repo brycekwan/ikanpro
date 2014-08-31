@@ -25,7 +25,7 @@ Last change:	06/02/2014
 	background-color: #D26C22;
 }
 .style-toggle-body .colors > .red {
-	background-color: #E35E54;
+	background-color: #ED1C24;
 }
 
 /* ===== Link and Font Colors ===== */
@@ -44,7 +44,7 @@ Last change:	06/02/2014
 }
 .body-red a,
 .body-red .text-color {
-	color: #E35E54;
+	color: #ED1C24;
 }
 
 
@@ -60,7 +60,7 @@ Last change:	06/02/2014
 	border-color: #D26C22;
 }
 .body-red .border-color {
-	border-color: #E35E54;
+	border-color: #ED1C24;
 }
 
 /* ===== Background Colors ===== */
@@ -75,7 +75,7 @@ Last change:	06/02/2014
 	background-color: #D26C22;
 }
 .body-red .bg-color {
-	background-color: #E35E54;
+	background-color: #ED1C24;
 }
 .body-green .bg-hover-color:hover,
 .body-green .open > .bg-hover-color {
@@ -91,7 +91,7 @@ Last change:	06/02/2014
 }
 .body-red .bg-hover-color:hover,
 .body-red .open > .bg-hover-color {
-	background-color: #E35E54 !important;
+	background-color: #ED1C24 !important;
 }
 
 /* ===== Buttons Colors ===== */
@@ -145,7 +145,7 @@ Last change:	06/02/2014
 /* Button Orange */
 
 .body-red .btn-color {
-  background-color: #E35E54;
+  background-color: #ED1C24;
   border-color: #E0493E;
 }
 .body-red .btn-color:hover,
@@ -170,8 +170,8 @@ Last change:	06/02/2014
 	background-image: radial-gradient(#E28D50, #D26C22);
 }
 .body-red .not-found-p {
-	background: #E35E54;
-	background-image: radial-gradient(#E56A61, #E35E54);
+	background: #ED1C24;
+	background-image: radial-gradient(#E56A61, #ED1C24);
 }
 
 
