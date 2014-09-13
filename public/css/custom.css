@@ -1296,14 +1296,14 @@ a.port-arrow-next {
 }
 @media (max-width: 1200px) { /* Adjusting for large devices */
 	.pricing-p .head .arrow {
-		border-right-width: 95px;
-		border-left-width: 95px;
+		border-right-width: 136px;
+		border-left-width: 136px;
 	}
 }
 @media (max-width: 992px) { /* Adjusting for small devices */
 	.pricing-p .head .arrow {
-		border-right-width: 68px;
-		border-left-width: 68px;
+		border-right-width: 99px;
+		border-left-width: 99px;
 		border-top-width: 20px;
 	}
 }
